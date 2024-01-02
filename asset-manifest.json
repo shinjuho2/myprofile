@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hansei-frontend-example/static/css/main.b057980a.css",
+    "main.js": "/hansei-frontend-example/static/js/main.cf9de071.js",
+    "static/js/787.c625c012.chunk.js": "/hansei-frontend-example/static/js/787.c625c012.chunk.js",
+    "index.html": "/hansei-frontend-example/index.html",
+    "main.b057980a.css.map": "/hansei-frontend-example/static/css/main.b057980a.css.map",
+    "main.cf9de071.js.map": "/hansei-frontend-example/static/js/main.cf9de071.js.map",
+    "787.c625c012.chunk.js.map": "/hansei-frontend-example/static/js/787.c625c012.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b057980a.css",
+    "static/js/main.cf9de071.js"
+  ]
+}
